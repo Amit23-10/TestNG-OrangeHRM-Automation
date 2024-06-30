@@ -1,4 +1,4 @@
-# WP-Dark-Mode-Automation
+# OrangeHRM-Automation
 ### This is a project where [OrangeHrm Website](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) is automated by performing smoke testing using selenium-webdriver and TestNg as testing framework.
 The following key are automated:
 - Login to admin
